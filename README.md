@@ -1,6 +1,10 @@
+Rizky Al Santiano — 0xBJVD
+
 <!-- Animated identity --><h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Rizky+Al+Santiano;Cybersecurity+Learner;Developer+%26+Tech+Enthusiast;Learning.+Building.+Exploring." alt="Rizky Al Santiano" />
 </h1><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,40:082F49,100:020817&height=3" width="100%" />
+</p><p align="center">
   <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0B1F36?style=for-the-badge&labelColor=020817" />
   <img src="https://img.shields.io/badge/INTEREST-DEVELOPMENT-0B1F36?style=for-the-badge&labelColor=020817" />
   <img src="https://img.shields.io/badge/STATUS-LEARNING-0B1F36?style=for-the-badge&labelColor=020817" />
@@ -13,9 +17,9 @@
   </a>
 </p><p align="center">
   <i>"Understand the fundamentals. Explore the unknown. Build something meaningful."</i>
-</p>---
-
-"01 / WHO AM I"
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>01 / WHO AM I
 
 class RizkyAlSantiano:
 
@@ -47,9 +51,9 @@ I enjoy experimenting with technologies, exploring how applications work, analyz
 
 I'm still learning, and I believe that consistency, curiosity, and strong fundamentals are essential to becoming better in technology.
 
----
-
-"02 / CORE INTERESTS"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>02 / CORE INTERESTS
 
 <table>
 <tr>
@@ -70,9 +74,9 @@ I'm still learning, and I believe that consistency, curiosity, and strong fundam
 
 </td>
 </tr>
-</table>---
-
-"03 / CYBERSECURITY TOOLKIT"
+</table><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>03 / CYBERSECURITY TOOLKIT
 
 <p>
   <img src="https://skillicons.dev/icons?i=kali&theme=dark" height="48" />
@@ -88,17 +92,17 @@ I'm still learning, and I believe that consistency, curiosity, and strong fundam
 - Vulnerability Analysis — Learning how to identify and understand security weaknesses.
 - Bug Hunting — Exploring responsible vulnerability discovery within authorized scopes.
 
----
-
-"04 / PROGRAMMING LANGUAGES"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>04 / PROGRAMMING LANGUAGES
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,vite,react,ts,laravel,php&theme=dark&perline=5" />
 </p><p align="center">
   <sub>Currently learning and improving my understanding of these technologies.</sub>
-</p>---
-
-"05 / TOOLS & ENVIRONMENT"
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>05 / TOOLS & ENVIRONMENT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,netlify,vercel,github,nginx,linux&theme=dark&perline=4" />
@@ -110,9 +114,9 @@ Version Control| GitHub
 Web Server| Nginx
 Operating System| Linux
 
----
-
-"06 / FEATURED PROJECT"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>06 / FEATURED PROJECT
 
 <p align="center">
   <a href="https://0xbjvd.github.io/portofolio/">
@@ -122,9 +126,9 @@ Operating System| Linux
 
 More experiments and projects are available in my GitHub repositories.
 
----
-
-"07 / GITHUB ANALYTICS"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>07 / GITHUB ANALYTICS
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xBJVD&show_icons=true&hide_border=true&bg_color=080D18&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
@@ -133,9 +137,9 @@ More experiments and projects are available in my GitHub repositories.
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xBJVD&hide_border=true&background=080D18&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" />
 </p><p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xBJVD&bg_color=080D18&color=94A3B8&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</p>---
-
-"08 / CONNECT"
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
+</p>08 / CONNECT
 
 <p align="center">
   <a href="https://github.com/0xBJVD">
@@ -154,5 +158,5 @@ More experiments and projects are available in my GitHub repositories.
 </p><p align="center">
   <b>RIZKY AL SANTIANO / 0xBJVD</b>
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:075985,100:0284C7&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:075985,100:0284C7&height=120&section=footer" width="100%" />
 </p>
