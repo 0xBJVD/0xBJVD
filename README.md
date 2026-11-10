@@ -18,7 +18,7 @@ Rizky Al Santiano — 0xBJVD
 </p><p align="center">
   <i>"Understand the fundamentals. Explore the unknown. Build something meaningful."</i>
 </p>---
-markdown
+```
 <!-- 01 / NORMAL INTRODUCTION --><h2>01 / WHO AM I</h2>class RizkyAlSantiano:
 
     def __init__(self):
@@ -40,6 +40,7 @@ markdown
 
     def philosophy(self):
         return "Learn the basics before mastering the complex."
+
 
 I'm Rizky Al Santiano, a technology enthusiast with a growing interest in cybersecurity and software development.
 
