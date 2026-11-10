@@ -21,8 +21,6 @@ Rizky Al Santiano — 0xBJVD
 
 ```markdown
 <!-- 01 / NORMAL INTRODUCTION -->
-<h2>01 / WHO AM I</h2>class RizkyAlSantiano:
-
     def __init__(self):
         self.name = "Rizky Al Santiano"
         self.username = "0xBJVD"
