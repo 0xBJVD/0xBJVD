@@ -19,7 +19,6 @@
 </p>---
 
 ```markdown
-<!-- 01 / NORMAL INTRODUCTION -->
     def __init__(self):
         self.name = "Rizky Al Santiano"
         self.username = "0xBJVD"
