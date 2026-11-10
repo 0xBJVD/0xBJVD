@@ -17,11 +17,9 @@ Rizky Al Santiano — 0xBJVD
   </a>
 </p><p align="center">
   <i>"Understand the fundamentals. Explore the unknown. Build something meaningful."</i>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>01 / WHO AM I
+</p>---
 
-class RizkyAlSantiano:
+<!-- 01 / NORMAL INTRODUCTION --><h2>01 / WHO AM I</h2>class RizkyAlSantiano:
 
     def __init__(self):
         self.name = "Rizky Al Santiano"
@@ -51,11 +49,13 @@ I enjoy experimenting with technologies, exploring how applications work, analyz
 
 I'm still learning, and I believe that consistency, curiosity, and strong fundamentals are essential to becoming better in technology.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>02 / CORE INTERESTS
+---
 
-<table>
+<!-- 02 / SERIF DISPLAY --><h1 align="center">
+  <sub>02</sub>
+  <br/>
+  <i>Core Interests.</i>
+</h1><table>
 <tr>
 <td width="50%" valign="top"><h3>01. Cybersecurity</h3>- Security Fundamentals
 - Web Application Security
@@ -74,11 +74,13 @@ I'm still learning, and I believe that consistency, curiosity, and strong fundam
 
 </td>
 </tr>
-</table><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>03 / CYBERSECURITY TOOLKIT
+</table>---
 
-<p>
+<!-- 03 / CONDENSED TECHNICAL STYLE --><h1 align="center">
+  <sub>03 /</sub>
+  <br/>
+  CYBERSECURITY TOOLKIT
+</h1><p>
   <img src="https://skillicons.dev/icons?i=kali&theme=dark" height="48" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="28" />
@@ -92,19 +94,23 @@ I'm still learning, and I believe that consistency, curiosity, and strong fundam
 - Vulnerability Analysis — Learning how to identify and understand security weaknesses.
 - Bug Hunting — Exploring responsible vulnerability discovery within authorized scopes.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>04 / PROGRAMMING LANGUAGES
+---
 
-<p align="center">
+<!-- 04 / MONOSPACE EDITORIAL --><h1 align="center">
+  <sub>04 — DEVELOPMENT</sub>
+  <br/>
+  <code>PROGRAMMING LANGUAGES</code>
+</h1><p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,vite,react,ts,laravel,php&theme=dark&perline=5" />
 </p><p align="center">
   <sub>Currently learning and improving my understanding of these technologies.</sub>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>05 / TOOLS & ENVIRONMENT
+</p>---
 
-<p align="center">
+<!-- 05 / CLEAN EDITORIAL --><h1 align="center">
+  <sub>05 / ENVIRONMENT</sub>
+  <br/>
+  <i>Tools & Environment</i>
+</h1><p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,netlify,vercel,github,nginx,linux&theme=dark&perline=4" />
 </p>Category| Tools
 Code Editor| Visual Studio Code
@@ -114,11 +120,13 @@ Version Control| GitHub
 Web Server| Nginx
 Operating System| Linux
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>06 / FEATURED PROJECT
+---
 
-<p align="center">
+<!-- 06 / LARGE DISPLAY TYPOGRAPHY --><h1 align="center">
+  <sub>06</sub>
+  <br/>
+  FEATURED PROJECT
+</h1><p align="center">
   <a href="https://0xbjvd.github.io/portofolio/">
     <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0B1F36?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
   </a>
@@ -126,22 +134,26 @@ Operating System| Linux
 
 More experiments and projects are available in my GitHub repositories.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>07 / GITHUB ANALYTICS
+---
 
-<p align="center">
+<!-- 07 / DATA TERMINAL STYLE --><h1 align="center">
+  <sub>07 / SYSTEM DATA</sub>
+  <br/>
+  <code>GITHUB ANALYTICS</code>
+</h1><p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xBJVD&show_icons=true&hide_border=true&bg_color=080D18&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBJVD&layout=compact&hide_border=true&bg_color=080D18&title_color=38BDF8&text_color=C9D1D9" />
 </p><p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xBJVD&hide_border=true&background=080D18&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" />
 </p><p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xBJVD&bg_color=080D18&color=94A3B8&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:020817&height=2" width="100%" />
-</p>08 / CONNECT
+</p>---
 
-<p align="center">
+<!-- 08 / SERIF ITALIC CLOSING --><h1 align="center">
+  <sub>08 / SOCIAL</sub>
+  <br/>
+  <i>Let's Connect.</i>
+</h1><p align="center">
   <a href="https://github.com/0xBJVD">
     <img src="https://img.shields.io/badge/GitHub-0xBJVD-161B22?style=for-the-badge&logo=github" />
   </a>
